@@ -1,0 +1,7 @@
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\bin\Debug\자리배치.exe.config
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\bin\Debug\자리배치.exe
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\bin\Debug\자리배치.pdb
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\obj\Debug\자리배치.csprojAssemblyReference.cache
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\obj\Debug\자리배치.csproj.CoreCompileInputs.cache
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\obj\Debug\자리배치.exe
+C:\Users\n30gu1\Documents\C#\자리배치\자리배치\obj\Debug\자리배치.pdb
